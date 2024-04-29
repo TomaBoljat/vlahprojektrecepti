@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Pantry Pal</string>
+    <string-array name="juhe">
+        <item>Dalmatinska</item>
+        <item>Gazpacho</item>
+        <item>Harira</item>
+        <item>Laksa</item>
+        <item>Yayla çorbası</item>
+    </string-array>
+    <string-array name="kolaci">
+        <item>Muffini</item>
+        <item>Tuljci</item>
+        <item>Ledeni vjetar</item>
+        <item>Čupavci</item>
+        <item>Mađarica</item>
+    </string-array>
+</resources>
